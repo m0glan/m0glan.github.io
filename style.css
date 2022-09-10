@@ -11,6 +11,11 @@
   margin-top: 10px;
 }
 
+.section .subtitle {
+  color: rgb(200, 200, 200);
+  font-style: italic;
+}
+
 .inline-header-6 {
   font-weight: 500;
 }
