@@ -1,0 +1,32 @@
+.main-header {
+  padding: 100px;  
+  background-color: #0d6efd;
+}
+
+.section {
+  text-align: left;
+}
+
+.section .section-element {
+  margin-top: 10px;
+}
+
+.section .subtitle {
+  color: rgb(200, 200, 200);
+  font-style: italic;
+}
+
+.inline-header-6 {
+  font-weight: 500;
+}
+
+.btn-social {
+  background-color: #212529;
+  border-color: rgba(0,0,0,0.2);
+  color: white;
+}
+
+.btn-social:first-child:hover, .btn-social:hover, :not(.btn-check) + .btn-social:hover, .btn-social:active, .btn-social:focus {
+  background-color: rgb(68, 68, 68);
+  border-color: rgb(40, 40, 40);
+}
