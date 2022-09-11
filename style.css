@@ -1,3 +1,7 @@
+html, body {
+  height: 100%;
+}
+
 .main-header {
   padding: 100px;  
   background-color: #0d6efd;
@@ -30,6 +34,14 @@ a {
 
 .nav {
   list-style: none;
+}
+
+.cover {
+  padding: 0 1.5rem;
+}
+
+.cover-container {
+  max-width: 42em;
 }
 
 .section {
