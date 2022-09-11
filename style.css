@@ -49,13 +49,13 @@ a {
   font-weight: 500;
 }
 
-.btn-social {
-  background-color: #212529;
+.btn-contact {
+  background-color: #dd4814;
   border-color: rgba(0,0,0,0.2);
   color: white;
 }
 
-.btn-social:first-child:hover, .btn-social:hover, :not(.btn-check) + .btn-social:hover, .btn-social:active, .btn-social:focus {
+.btn-contact:first-child:hover, .btn-contact:hover, :not(.btn-check) + .btn-contact:hover, .btn-contact:active, .btn-contact:focus {
   background-color: rgb(68, 68, 68);
-  border-color: rgb(40, 40, 40);
+  border-color: rgb(221, 72, 20);
 }
