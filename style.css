@@ -2,14 +2,14 @@ html, body {
   height: 100%;
 }
 
-.main-header {
-  padding: 100px;  
-  background-color: #0d6efd;
+.nav {
+  list-style: none;
 }
 
 .nav-masthead .active {
   color: #fff;
   border-bottom-color: #fff;
+  margin-bottom: 2em;
 }
 
 .nav-masthead .nav-link {
@@ -32,24 +32,12 @@ a {
   -webkit-text-decoration-skip: objects;
 }
 
-.nav {
-  list-style: none;
-}
-
-.cover {
-  padding: 0 1.5rem;
-}
-
 .cover-container {
   max-width: 42em;
 }
 
 .section {
   text-align: left;
-}
-
-.section .section-element {
-  margin-top: 10px;
 }
 
 .section .subtitle {
