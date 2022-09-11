@@ -6,18 +6,18 @@ html, body {
   list-style: none;
 }
 
-.nav-masthead .active {
-  color: #fff;
-  border-bottom-color: #fff;
-  margin-bottom: 2em;
-}
-
 .nav-masthead .nav-link {
   font-weight: 700;
   color: rgba(255, 255, 255, .5);
   background-color: transparent;
   border-bottom: .25rem solid transparent;
   border-bottom-color: transparent;
+}
+
+.nav-masthead .active {
+  color: #fff;
+  border-bottom: 0.25em solid #fff;
+  margin-bottom: 2em;
 }
 
 .nav-link {
