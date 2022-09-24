@@ -52,12 +52,12 @@ a {
 }
 
 .btn-contact {
-  background-color: #dd4814;
+  background-color: #5E2750;
   border-color: rgba(0,0,0,0.2);
   color: white;
 }
 
 .btn-contact:first-child:hover, .btn-contact:hover, :not(.btn-check) + .btn-contact:hover, .btn-contact:active, .btn-contact:focus {
-  background-color: rgb(68, 68, 68);
-  border-color: rgb(221, 72, 20);
+  background-color: #77216F;
+  border-color: #5E2750;
 }
