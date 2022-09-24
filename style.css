@@ -12,6 +12,7 @@ html, body {
   background-color: transparent;
   border-bottom: .25rem solid transparent;
   border-bottom-color: transparent;
+  font-size: x-large;
 }
 
 .nav-masthead .active {
@@ -38,6 +39,7 @@ a {
 
 .section {
   text-align: left;
+  font-size: larger;
 }
 
 .section .subtitle {
